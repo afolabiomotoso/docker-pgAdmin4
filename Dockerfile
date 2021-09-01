@@ -1,6 +1,6 @@
 FROM python:alpine3.9
 
-LABEL maintainer="Kacper Czarczyński <kacper.czarczynski@gmail.com>"
+LABEL maintainer="Kacper Czarczyński <afolabi88@gmail.com>"
 
 ENV PGADMIN_VERSION 5.0
 ENV UID             1000
